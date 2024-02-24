@@ -1,1 +1,1 @@
-# stabucks-vanilla-app
+# Starbucks
